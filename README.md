@@ -17,7 +17,13 @@ Site Outline
 Influences
 ----------
 
+**Design:**
 * [Willow](http://themeforest.net/item/willow-a-one-page-multipurpose-theme/full_screen_preview/7718163) (Wordpress theme)
+* [Mailcaddy.co](https://mailcaddy.co/)
+
+**Content:**
+* [Wheelhouse](http://inwheelhouse.com/)
+* [Profession.is resume](http://wentin.github.io/profession.is/#/edit/anonymous:-JlRMc7O7JffXpcZixoS)
 
 Tools
 -----
