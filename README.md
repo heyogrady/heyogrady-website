@@ -2,8 +2,9 @@ Hey O'Grady Portfolio Site
 ==========================
 A place to show off our wares
 
-Outline
--------
+Site Outline
+------------
+
 * Logo & headline
 * Who are we?
 * Services
@@ -12,6 +13,11 @@ Outline
 * Contact
 * Blog
 * Footer/details
+
+Influences
+----------
+
+* [Willow](http://themeforest.net/item/willow-a-one-page-multipurpose-theme/full_screen_preview/7718163) (Wordpress theme)
 
 Projects
 --------
@@ -48,7 +54,9 @@ Projects
 * Wedding print materials
 * UD Student Development
 
-**Upcoming Projects:**
+Upcoming Projects
+-----------------
+
 * Maureen & John O'Grady email newsletter (email marketing)
 * AgentBright drip campaign (email marketing)
 * Third-party lead drip campaign (email marketing)
