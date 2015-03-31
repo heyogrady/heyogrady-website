@@ -39,6 +39,7 @@ Projects
 * Hope CT
 * Eight Bridges Hat Co
 * O'Grady-Neike Wedding
+* Willmar Pet
 
 **Apps:**
 * AgentBright
