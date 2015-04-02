@@ -11,6 +11,7 @@ Install Compass
 ---------------
 
 * Run `gem install compass`
+* Because I use rbenv, run `rbenv rehash`
 
 Install Claymate
 ----------------
