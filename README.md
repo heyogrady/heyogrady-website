@@ -2,6 +2,8 @@ Hey O'Grady Portfolio Site
 ==========================
 A place to show off our wares
 
+**WIP Site:** http://heyogrady.github.io/heyogrady-website/
+
 Site Outline
 ------------
 
