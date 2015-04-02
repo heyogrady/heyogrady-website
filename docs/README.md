@@ -32,6 +32,9 @@ The solution was to install the following:
 npm install -g npm@1
 ```
 
+Via: http://stackoverflow.com/questions/25945401/cant-install-claymate-with-npm-error-no-compatible-version-found-bower-confi
+
+
 Create a new empty Gumby project
 --------------------------------
 
