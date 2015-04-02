@@ -18,6 +18,12 @@
 
 .icon-list-item .icon .image {
   width: 80px;
-  height: 80px;
+  height: 40px;
   background-color: #0faf97;
+}
+
+#parallax-quotes .parallax {
+  width: 100%;
+  height: 300px;
+  background-image: url(http://solopine.com/willow/wp-content/uploads/2014/04/counter-bg22.jpg);
 }

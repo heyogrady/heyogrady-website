@@ -2,3 +2,17 @@
 We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
 However, this blank file is available if you prefer
 */
+
+.parallax {
+background-attachment: fixed !important;
+}
+.oldie, .ie9 {
+.parallax {
+background-attachment: static !important;
+}
+}
+.example-grid .parallax {
+  width: 100%;
+  height: 300px;
+  background-image: url(http://gumbyframework.com/img/img_parallax_demo.jpg);
+}
