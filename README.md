@@ -48,6 +48,7 @@ Projects
 
 **Apps:**
 * AgentBright
+* AgentBright Pattern Library
 * Swimmy Frog
 
 **Email Marketing:**
