@@ -1,0 +1,19 @@
+.icon-list-item {
+  padding: 20px 0 20px 100px;
+  margin-bottom: 20px;
+  min-height: 110px;
+  position: relative;
+}
+
+.icon-list-item .icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 15px;
+}
+
+.icon-list-item .icon .image {
+  width: 80px;
+  height: 80px;
+  background-color: #0faf97;
+}
