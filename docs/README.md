@@ -4,7 +4,7 @@ Setup
 Here's what we did to create this site using the Gumby Framework
 
 **Prerequisites:**
-* Ruby >2.0.0
+* Ruby >= 2.0.0
 * npm
 
 Install Compass
