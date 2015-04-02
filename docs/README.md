@@ -21,7 +21,8 @@ Claymate is a CLI (command-line interface) for setting up a new Gumby project.
 * Run `npm install -g claymate`
 
 **Note:**
-At this point I was getting an which contained something similar to this:
+At this point I was getting an error when it tried to install the claymate package.
+The error contained something similar to this:
 
 ```sh
 No compatible version found: bower-config@'>=0.2.0 <0.3.0'
