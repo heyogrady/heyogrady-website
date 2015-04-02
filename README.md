@@ -3,6 +3,8 @@ Hey O'Grady Portfolio Site
 A place to show off our wares
 
 **WIP Site:** http://heyogrady.github.io/heyogrady-website/
+**Gumby Framework UI:** http://heyogrady.github.io/heyogrady-website/ui
+**Gumby Docs:** http://gumbyframework.com/docs/
 
 Site Outline
 ------------
