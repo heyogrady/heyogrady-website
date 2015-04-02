@@ -1689,3 +1689,8 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 .parallax { background-attachment: fixed !important; }
 
 .oldie .parallax, .ie9 .parallax { background-attachment: static !important; }
+
+#projects-container li.project { display: inline-block; float: left; padding-left: 1.06383%; padding-right: 1.06383%; width: 100%; min-height: 300px; height: auto; }
+@media only screen and (min-width: 0px) { #projects-container li.project { width: 100%; } }
+@media only screen and (min-width: 768px) { #projects-container li.project { width: 50%; } }
+@media only screen and (min-width: 940px) { #projects-container li.project { width: 33.33333%; } }
