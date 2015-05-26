@@ -1,3 +1,22 @@
 // Your custom SCSS should be written here...
 
-@import "../bower_components/gumby-parallax/parallax"
+@import "../bower_components/gumby-parallax/parallax";
+
+// This will create a product grid that is 
+// 4 columns on desktop, 2 on tablets, and
+// 1 column on mobile devices
+
+#projects-container li.project {
+  @include fancytiles(3,2,1);
+  min-height: 300px;
+  height: auto;
+}
+
+// 4 columns on desktop, 2 at 600px and,
+// 1 column on mobile devices
+// #my-different-grid-container li.product {
+//   @include fancytiles(4,2,1, $min-device-width, '600px', $row-max-width);
+//   min-height: 300px;
+//   height: auto;
+// }
+
